@@ -7,9 +7,10 @@
 title: Philippe's publications
 email: philippe.leclercq.osix@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  IT security blog 
+  IT security blog
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://plecbe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://plecbe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: plecbe
 github_username:  plecbe
 
