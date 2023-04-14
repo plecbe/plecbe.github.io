@@ -1,2 +1,2 @@
-# Hello,world.
-This is the site for future doc publishing.
+# Documentation and tools to analyze MS Word documents
+
