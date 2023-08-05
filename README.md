@@ -9,4 +9,5 @@
 [See the github repository](https://github.com/plecbe/OfficeDocAnalysis/)
 # Cryptography
 2023-05-26: Added some easy tools in Python for basic cryptography: frequency analysis, Caesar's and Vigenère ciphers.
+
 2023-07-29: Added a Python program to compute a file's SHA-1 hash. [See the github repository](https://github.com/plecbe/Cryptography/) 
