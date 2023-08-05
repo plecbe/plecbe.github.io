@@ -8,5 +8,5 @@
 2023-04-15: A .docx or .docm MS Word file is a compressed Zip archive, containing several XML files. They can also contain embedded OLE objects and VBA macros, which are binary files. I wrote a document describing the structure of such files and a Python program demonstrating how to decode these binary files, based on the Microsoft Compound File Binary format specification.  
 [See the github repository](https://github.com/plecbe/OfficeDocAnalysis/)
 # Cryptography
-2023-05-26: Added some easy tools for basic cryptography: frequency analysis, Caesar's and Vigenère ciphers.
-
+2023-05-26: Added some easy tools in Python for basic cryptography: frequency analysis, Caesar's and Vigenère ciphers.
+2023-07-29: Added a Python program to compute a file's SHA-1 hash. [See the github repository](https://github.com/plecbe/Cryptography/) 
