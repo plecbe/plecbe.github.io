@@ -12,5 +12,7 @@
 
 2023-07-29: Added a Python program to compute a file's SHA-1 hash. [See the github repository](https://github.com/plecbe/Cryptography/)
 
+2023-09-28: Added a base64 encode and decode program.
+
 # Blog
 2013-08-01: I started a blog [here](https://blog.osix.be/) to pass some knowledge and experience on various security subjects, mainly targeted at generalist and beginner level professionals and small and medium businesses. The articles are also stored in [this github repository](https://github.com/plecbe/Blog/).
